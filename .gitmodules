@@ -1,0 +1,3 @@
+[submodule "ahome-core"]
+	path = ahome-core
+	url = https://github.com/BiovistaInc/ahome-core.git
